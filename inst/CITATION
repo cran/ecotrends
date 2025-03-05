@@ -1,0 +1,21 @@
+# To cite ecotrends in publications use:
+
+bibentry(
+  bibtype = "Manual",
+  title = "ecotrends: Temporal Trends in Ecological Niche Models",
+  author = c(
+    person(given = c("A.", "Marcia"), family = "Barbosa",
+           email = "ana.marcia.barbosa@gmail.com", role = c("aut", "cre")),
+    person(given = "João", family = "Alírio", role = "aut"),
+    person(given = "Nuno", family = "Garcia", role = "aut"),
+    person(given = "João", family = "Campos", role = "aut"),
+    person(given = c("Ana", "Cláudia"), family = "Teodoro", role = "aut"),
+    person(given = "Lia", family = "Barbosa", role = "aut"),
+    person(given = "Isabel", family = "Pôças", role = "aut"),
+    person(given = "Salvador", family = "Arenas-Castro", role = "aut"),
+    person(given = "Neftalí", family = "Sillero", role = "aut")
+  ),
+  year = "2024",
+  url = "https://github.com/AMBarbosa/ecotrends",
+  note = "Barbosa A.M. et al. 2024. ecotrends. https://github.com/AMBarbosa/ecotrends"
+)
