@@ -1,3 +1,14 @@
+# ecotrends 1.1
+
+-   getPerformance()
+
+    - added 'kappa' to implemented metrics
+    
+    - create columns before they are populated
+    
+    - renamed and reordered some threshold columns for better readability
+
+
 # ecotrends 1.0
 
 -   replaced 'year' with 'period' in messages and outputs
@@ -9,7 +20,8 @@
     - replaced getwd() with tempfile() in Examples
 
     - replaced dontrun{} with donttest{} in examples that take long to run but are feasible without extra software; then replaced instead with if(interactive()), because check still runs the donttest{} section
-
+    
+    - removed LICENSE file for not having additional restrictions
 
 
 # ecotrends 0.23

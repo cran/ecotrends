@@ -1,7 +1,7 @@
 Package: ecotrends
 Type: Package
 Title: Temporal Trends in Ecological Niche Models
-Version: 1.0
+Version: 1.1
 Authors@R: 
   c(
     person(given = c("A.", "Marcia"), family = "Barbosa", 
@@ -28,7 +28,7 @@ Config/testthat/edition: 3
 Imports: collinear (>= 2.0.0), fuzzySim (>= 4.26), maxnet, modEvA (>=
         3.21), terra (>= 1.4-19), trend
 NeedsCompilation: no
-Packaged: 2025-03-03 17:11:43 UTC; marcia
+Packaged: 2025-07-07 10:33:57 UTC; marcia
 Author: A. Marcia Barbosa [aut, cre],
   João Alírio [aut],
   Nuno Garcia [aut],
@@ -39,4 +39,4 @@ Author: A. Marcia Barbosa [aut, cre],
   Salvador Arenas-Castro [aut],
   Neftalí Sillero [aut]
 Repository: CRAN
-Date/Publication: 2025-03-05 13:20:19 UTC
+Date/Publication: 2025-07-07 11:20:02 UTC
